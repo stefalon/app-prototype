@@ -17,7 +17,7 @@ Here is a list of my primary skills:
 
 ### Stefan Markovic
 
-Hi, my name is **Stefan Markovic** and I live in *Toronto*, *Ontario*, I am a student currently enrolled at *George Brown* for Interaction Development and Design.
+Hi, my name is **Stefan Markovic** and I currently live in *Toronto*, *Ontario*. I am a student enrolled at *George Brown* for Interaction Development and Design.
 
 Here is a *long* list of my primary skills:
 
