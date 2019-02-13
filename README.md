@@ -28,7 +28,7 @@ Here is a *long* list of my primary skills:
 * [:computer: My Github:](https://github.com/stefanmarkovic99)
 * [🍔 My Email:](stefan.markovic2@georgebrown.ca)
 
-gg
+
 ## Markdown
 
 Markdown is similar to HTML, where
