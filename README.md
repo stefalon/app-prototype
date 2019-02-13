@@ -25,8 +25,8 @@ Here is a *long* list of my primary skills:
 
 #### Social Media:
 
-* [:computer: My Github:](https://github.com/stefanmarkovic99)
-* [🍔 My Email:](stefan.markovic2@georgebrown.ca)
+* [:computer: My Github](https://github.com/stefanmarkovic99)
+* [🍔 My Email](stefan.markovic2@georgebrown.ca)
 
 
 ## Markdown
