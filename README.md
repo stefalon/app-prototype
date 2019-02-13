@@ -14,10 +14,10 @@ Here is a list of my primary skills:
   * Maya
   * SketchUp
 
-  
+
 ### Stefan Markovic
 
-Hi, my name is **Stefan Markovic** and I live in *Toronto*, *Ontario*.
+Hi, my name is **Stefan Markovic** and I live in *Toronto*, *Ontario*, I am a student currently enrolled at *George Brown* for Interaction Development and Design.
 
 Here is a *long* list of my primary skills:
 
