@@ -22,9 +22,16 @@ Here is a list of my primary skills:
 
 Hi, my name is **Stefan Markovic** and I live in *Toronto*, *Ontario*.
 
-Here is a *long* list of my primary skills:
+Here is a list of my primary skills:
 
-* I have none
+* Photoshop
+* Video Editing
+  * Premiere Pro
+  * After Effect
+* 3d Modelling
+  * Maya
+  * Google SketchUp
+
 
 #### Contacts & Social Media
 
