@@ -1,7 +1,18 @@
+@font-face {
+  font-family: Coiny;
+  src: url(shttps://fonts.googleapis.com/css?family=Coiny);
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url(https://fonts.googleapis.com/css?family=Rubik);
+}
+
 table {
   border-collapse: collapse;
   width: 30%;
   text-align: center;
+  font-family: 'Rubik', sans-serif;
 }
 
 th {
@@ -19,8 +30,10 @@ th, td {
   text-align: center;
   background-color: black;
   color: white;
-  width: 52.55em;
-  margin-bottom: 02%
+  width: 53.3em;
+  margin-bottom: 02%;
+  font-weight: bold;
+  font-family: 'Coiny', cursive;
 }
 
 .dayofweek {
