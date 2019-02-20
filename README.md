@@ -26,7 +26,9 @@ Here is a *long* list of my primary skills:
 
 * I have none
 
+#### Contacts & Social Media
 
+* [:computer: My GitHUB](https://github.com/stefanmarkovic99)
 
 ## Markdown
 
