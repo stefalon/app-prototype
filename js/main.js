@@ -16,5 +16,10 @@ let schedule = [
       {name: "C6A3"}, {name: "Week 10"}, {name: "Finished"}],
   }
 ];
-
+document.getElementById('gradebook').innerHTML = "test"
 console.log( schedule[1].id );
+
+schedule.forEach( schdl => {
+  document.getElementById('gradebook').innerHTML += ""
+
+}
