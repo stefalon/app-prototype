@@ -25,7 +25,6 @@ th, td {
 }
 
 .booksmartheader {
-  border: 1px;
   padding: 1em;
   text-align: center;
   background-color: black;
@@ -67,4 +66,20 @@ th, td {
 
 .study {
   background-color: #FECC01;
+}
+
+.projectdue {
+  background-color: #FE95E9;
+  font-weight: bold;
+}
+
+.blckbrdr {
+  padding: 1em;
+  background-color: black;
+  color: white;
+  width: 53.3em;
+  margin-bottom: 02%;
+  margin-top: 01%;
+  font-weight: bold;
+  font-family: 'Coiny', cursive;
 }
