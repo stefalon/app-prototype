@@ -1,0 +1,86 @@
+@font-face {
+  font-family: Coiny;
+  src: url(shttps://fonts.googleapis.com/css?family=Coiny);
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url(https://fonts.googleapis.com/css?family=Rubik);
+}
+
+table {
+  border-collapse: collapse;
+  width: 30%;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+}
+
+th {
+  height: 30px;
+  text-align: center;
+}
+
+th, td {
+  padding: 0.8em;
+}
+
+.booksmartheader {
+  padding: 1em;
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 53.3em;
+  margin-bottom: 01.5%;
+  font-weight: bold;
+  font-family: 'Coiny', cursive;
+}
+
+.dayofweek {
+  color: white;
+  background-color: #161616;
+}
+
+.sleep {
+  background-color: #DEDDDD;
+}
+
+.commute {
+  background-color: #80FE88;
+}
+
+.work {
+  background-color: #FE5151;
+}
+
+.school {
+  background-color: #8EECFE;
+}
+
+.actuallynothing {
+  background-color: white;
+}
+
+.relax {
+  background-color: #3C7DFE;
+}
+
+.study {
+  background-color: #FECC01;
+}
+
+.projectdue {
+  background-color: #FE95E9;
+  font-weight: bold;
+}
+
+.blckbrdr {
+  padding: 1em;
+  background-color: black;
+  width: 53.3em;
+  margin-bottom: 01%;
+  margin-top: 01.5%;
+}
+
+.marksheader {
+  font-weight: bold;
+}
