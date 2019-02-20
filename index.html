@@ -10,26 +10,236 @@
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
-    <table s>
+    <table class="schedule">
       <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Firstname</th>
-        <th>Lastname</th>
+        <th class="dayofweek">TIME</th>
+        <th class="dayofweek">MONDAY</th>
+        <th class="dayofweek">TUESDAY</th>
+        <th class="dayofweek">WEDNESDAY</th>
+        <th class="dayofweek">THURSDAY</th>
+        <th class="dayofweek">FRIDAY</th>
+        <th class="dayofweek">SATURDAY</th>
+        <th class="dayofweek">SUNDAY</th>
       </tr>
       <tr>
-        <td>Peter</td>
-        <td>Griffin</td>
-        <td>Griffin</td>
-        <td>Griffin</td>
-        <td>Griffin</td>
-        <td>Griffin</td>
-        <td>Griffin</td>
-        <td>Griffin</td>
+        <th>12:00AM</th>
+        <td class="sleep">SLEEP</td>
+        <td class="sleep">SLEEP</td>
+        <td class="sleep">SLEEP</td>
+        <td class="sleep">SLEEP</td>
+        <td class="sleep">SLEEP</td>
+        <td class="sleep">SLEEP</td>
+        <td class="sleep">SLEEP</td>
+      </tr>
+      <tr>
+        <th>1:00AM</th>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>2:00AM</th>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>3:00AM</th>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>4:00AM</th>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>5:00AM</th>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>6:00AM</th>
+        <td class="commute">COMMUTE</td>
+        <td class="sleep"></td>
+        <td class="commute">COMMUTE</td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>7:00AM</th>
+        <td class="work">WORK</td>
+        <td class="sleep"></td>
+        <td class="work">WORK</td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>8:00AM</th>
+        <td class="work"></td>
+        <td class="commute">COMMUTE</td>
+        <td class="work"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>9:00AM</th>
+        <td class="work"></td>
+        <td class="school">CLASS 3</td>
+        <td class="work"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>10:00AM</th>
+        <td class="work"></td>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="actuallynothing"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>11:00AM</th>
+        <td class="commute">COMMUTE</td>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="relax">NETFLIX</td>
+        <td class="relax">FRIENDS</td>
+        <td class="actuallynothing"></td>
+        <td class="sleep"></td>
+      </tr>
+      <tr>
+        <th>12:00PM</th>
+        <td class="school">CLASS 1</td>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="relax"></td>
+        <td class="relax"></td>
+        <td class="actuallynothing"></td>
+        <td class="actuallynothing"></td>
+      </tr>
+      <tr>
+        <th>1:00PM</th>
+        <td class="school"></td>
+        <td class="school">CLASS 4</td>
+        <td class="work"></td>
+        <td class="relax">NAP</td>
+        <td class="study">STUDY</td>
+        <td class="commute">COMMUTE</td>
+        <td class="relax">REST</td>
+      </tr>
+      <tr>
+        <th>2:00PM</th>
+        <td class="school"></td>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="commute">COMMUTE</td>
+        <td class="commute">COMMUTE</td>
+        <td class="work">WORK</td>
+        <td class="relax"></td>
+      </tr>
+      <tr>
+        <th>3:00PM</th>
+        <td class="school"></td>
+        <td class="school"></td>
+        <td class="relax">SEE FAMILY</td>
+        <td class="school">CLASS 6</td>
+        <td class="work">WORK</td>
+        <td class="work"></td>
+        <td class="actuallynothing"></td>
+      </tr>
+      <tr>
+        <th>4:00PM</th>
+        <td class="school">CLASS 2</td>
+        <td class="commute">COMMUTE</td>
+        <td class="relax"></td>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="work"></td>
+        <td class="relax">SHOPPING</td>
+      </tr>
+      <tr>
+        <th>5:00PM</th>
+        <td class="school"></td>
+        <td class="work">WORK</td>
+        <td class="commute">COMMUTE</td>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="work"></td>
+        <td class="relax"></td>
+      </tr>
+      <tr>
+        <th>6:00PM</th>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="school">CLASS 5</td>
+        <td class="school"></td>
+        <td class="commute">COMMUTE</td>
+        <td class="work"></td>
+        <td class="relax"></td>
+      </tr>
+      <tr>
+        <th>7:00PM</th>
+        <td class="school"></td>
+        <td class="work"></td>
+        <td class="school"></td>
+        <td class="commute">COMMUTE</td>
+        <td class="actuallynothing"></td>
+        <td class="work"></td>
+        <td class="actuallynothing"></td>
+      </tr>
+      <tr>
+        <th>8:00PM</th>
+        <td class="commute">COMMUTE</td>
+        <td class="work"></td>
+        <td class="school"></td>
+        <td class="study">STUDY</td>
+        <td class="actuallynothing"></td>
+        <td class="work"></td>
+        <td class="actuallynothing"></td>
+      </tr>
+      <tr>
+        <th>9:00PM</th>
+        <td class="relax">REST</td>
+        <td class="work"></td>
+        <td class="school"></td>
+        <td class="actuallynothing"></td>
+        <td class="actuallynothing"></td>
+        <td class="work"></td>
+        <td class="actuallynothing"></td>
       </tr>
 
     </table>
