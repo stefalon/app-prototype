@@ -13,6 +13,10 @@ th, td {
   padding: 0.8em;
 }
 
+.booksmartheader {
+  border: 1px;
+}
+
 .dayofweek {
   color: white;
   background-color: #161616;
