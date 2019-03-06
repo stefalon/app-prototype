@@ -1,11 +1,8 @@
 let schedule = [
-  {
-    row1: [
-      {name: "Assignments"}, {name: "Due Date"}, {name: "Status"}],
-    row2: [
-      {name: "C1A2"}, {name: "Week 11"}, {name: "Not started"}],
-    row3: [
-      {name: "C2A3"}, {name: "Week 11"}, {name: "Started"}],
+  {class: "C1", assignment: "A2", due: "Week 11", completion: "Not started"},
+  {class: "C1", assignment: "A2", due: "Week 11", completion: "Not started"},
+
+    {name: "C2A3"}, {name: "Week 11"}, {name: "Started"},
     row4: [
       {name: "C3A3"}, {name: "Week 10"}, {name: "Finished"}],
     row5: [
@@ -16,10 +13,15 @@ let schedule = [
       {name: "C6A3"}, {name: "Week 10"}, {name: "Finished"}],
   }
 ];
-document.getElementById('gradebook').innerHTML = "test"
-console.log( schedule[1].id );
 
-schedule.forEach( schdl => {
-  document.getElementById('gradebook').innerHTML += ""
 
-}
+
+
+//
+//document.getElementById('gradebook').innerHTML = "test"
+//console.log( schedule[1].id );
+
+//schedule.forEach( schdl => {
+  //document.getElementById('gradebook').innerHTML += ""
+
+//}
