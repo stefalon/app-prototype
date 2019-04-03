@@ -15,3 +15,5 @@ let schedule = [
   //document.getElementById('gradebook').innerHTML += ""
 
 //}
+
+//map the function into empty div
