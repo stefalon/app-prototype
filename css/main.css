@@ -97,15 +97,11 @@ th, td {
   background-color: #80FE88;
 }
 
-.row3 {
+.due {
   background-color: #FE95E9;
   font-weight: bold;
 }
 
-.row6 {
-  background-color: #FE95E9;
-  font-weight: bold;
-}
 
 .buttonSize {
   width: 100%;
